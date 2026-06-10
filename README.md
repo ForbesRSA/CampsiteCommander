@@ -77,3 +77,7 @@ IF item name is Empty OR
    Item Names=[Tent,Marshmallows,Flashlight]
   Categories=[Shelter,FOod,Safety]
   Quantites =[1,2,3]
+#how the app works 
+the splash screen is the first screen in the app this ha the logo and name 
+the second screen is the main screen this is where most of the work happens such as the spinner,view details and add gear button
+lastly is the detailed view screen, this is where the user will input their values
